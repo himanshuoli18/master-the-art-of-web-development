@@ -1,0 +1,83 @@
+
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "HTML",
+        "description": "Hypertext Markup Language, the standard for creating web page structure and content.",
+        "playlist_link":"https://www.youtube.com/playlist?list=PLu71SKxNbfoDBNF5s-WH6aLbthSEIMhMI",
+        "image": "/courses/html.jpeg" 
+      },
+      {
+        "id": 2,
+        "title": "CSS",
+        "description": "Cascading Style Sheets, providing rules for the presentation and layout of HTML elements.",
+        "playlist_link":"https://youtu.be/MSICFljRcb4?si=VvCY4JeUwHwZKQgT",
+        "image": "/courses/css.png" 
+      },
+      {
+        "id": 3,
+        "title": "JavaScript",
+        "description": "A versatile scripting language enabling dynamic interactions and functionalities on web pages.",
+        "playlist_link":"https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "image": "/courses/js.jpeg" 
+      },
+      {
+        "id": 4,
+        "title": "ReactJS",
+        "description": "A JavaScript library for building user interfaces, simplifying the creation of complex UI components.",
+        "playlist_link":"https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&si=yucrGW4I4BcUyzWV",
+        "image": "/courses/reactjs.png"
+      },
+      {
+        "id": 5,
+        "title": "Bootstrap",
+        "description": "Front-end framework for rapid development with pre-styled and responsive components.",
+        "playlist_link":"https://youtu.be/cfg9_cp4zGk?si=J48QQLD52yXXiKSP",
+        "image": "/courses/bootstrap.jpeg"
+      },
+      {
+        "id": 6,
+        "title": "Tailwind CSS",
+        "description": "Utility-first CSS framework emphasizing customizability and flexibility through utility classes.",
+        "playlist_link":"https://youtu.be/_9mTJ84uL1Q?si=kTFA707mw3HjuVIF",
+        "image": "/courses/tailwind.jpeg"
+      },
+      {
+        "id": 7,
+        "title": "Git and Github",
+        "description": "Version control system and hosting platform, enabling collaborative coding and management",
+        "playlist_link":"https://youtube.com/playlist?list=PLinedj3B30sCoLe5k0FWtFd-JykESyu6h&si=PnvsUvfI4zIGjNKN",
+        "image": "/courses/git.jpeg"
+      },
+      {
+        "id": 8,
+        "title": "Backend Development",
+        "description": "Server-side programming and database management for web applications.",
+        "playlist_link":"https://youtube.com/playlist?list=PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW&si=9io6Jm_D5H85-Gld",
+        "image": "/courses/backend.jpeg"
+      },
+      {
+        "id": 9,
+        "title": "NodeJS",
+        "description": "avaScript runtime environment for building server-side applications with ease.",
+        "playlist_link":"https://youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo&si=QimRuq7-nAl3TOOp",
+        "image": "/courses/nodejs.png"
+      },
+      {
+        "id": 10,
+        "title": "NextJS",
+        "description": "React framework providing server-side rendering and other powerful features for web development.",
+        "playlist_link":"https://youtube.com/playlist?list=PL8p2I9GklV44sj_Ikp8jQSvwD-m9htnHT&si=TLanQ69mU-tIR9Vb",
+        "image": "/courses/nextjs.jpeg"
+      },
+      {
+        "id": 11,
+        "title": "Awazon Web Services",
+        "description": "A comprehensive cloud computing platform offering scalable and reliable solutions.",
+        "playlist_link":"https://youtube.com/playlist?list=PLRAV69dS1uWSj3ltu0ym1LwWg4509PZ0N&si=HbqUJaxEvyPYkW1J",
+        "image": "/courses/aws.jpeg"
+      }
+    ]
+  }
+  
