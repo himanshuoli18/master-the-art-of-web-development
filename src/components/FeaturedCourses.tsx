@@ -5,7 +5,7 @@ import { LampContainer } from "./ui/lamp";
 
 export function RecommendedTechnologies() {
   return (
-    <div>
+    <div className="bg-black">
       <LampContainer>
         <motion.h1
           initial={{ opacity: 0.5, y: 100 }}
