@@ -1,8 +1,10 @@
 import React from 'react'
+import Image from 'next/image';
+
 function page() {
   return (
     <div>
-      <img src="/map/frontend.svg" alt="" className='object-cover'/>
+      <Image src="/map/frontend.svg" alt="" width={2000} height={500} priority={true}/>
     </div>
   )
 }

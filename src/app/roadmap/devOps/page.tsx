@@ -1,9 +1,10 @@
 import React from 'react'
+import Image from 'next/image';
 
 function page() {
   return (
     <div>
-      <img src="/map/devOps.svg" alt="" />
+      <Image src="/map/devOps.svg" alt="" width={2000} height={500} priority={true}/>
     </div>
   )
 }

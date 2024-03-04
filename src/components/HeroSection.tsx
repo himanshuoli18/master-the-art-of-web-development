@@ -29,7 +29,7 @@ function HeroSection() {
                     Master the Art of <br /><div className="text-blue-500 dark:text-blue-500 ">Web Development</div>
                 </h1>
                 <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
-                    Dive into our comprehensive web development roadmaps, courses and transform your development journey today. Whether you're a beginner or looking to refine your skills, join us to unlock your true potential.
+                    Dive into our comprehensive web development roadmaps, courses and transform your development journey today. Whether you&apos;re a beginner or looking to refine your skills, join us to unlock your true potential.
                 </p>
                 <div className="mt-4">
                     <Link href={"/courses"}>

@@ -1,7 +1,7 @@
 'use client'
 import React, { FormEvent, useState } from 'react';
 import { BackgroundBeams } from '@/components/ui/background-beams';
-function page() {
+function Page() {
     const [email, setEmail] = useState('');
     const [message, setMessage] = useState('');
 
@@ -58,4 +58,4 @@ function page() {
     )
 }
 
-export default page
+export default Page
