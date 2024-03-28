@@ -8,7 +8,7 @@ const people = [
     id: 1,
     name: "Himanshu Oli",
     designation: "Software Engineer",
-    image: "https://media.licdn.com/dms/image/D5603AQFXjU-yuChX0A/profile-displayphoto-shrink_400_400/0/1704059489596?e=1714608000&v=beta&t=oQhXICzdwJQSmtczA-53nFMSwDpHXIYapVT4KaRCZqo"
+    image: "https://media.licdn.com/dms/image/D5603AQHc4imIRGpjJg/profile-displayphoto-shrink_400_400/0/1709582836475?e=1717027200&v=beta&t=e6WDwOX6UBgGLpY2zwQ0CyMUcNw5xjcDvpxjZYMigh0"  
   },
 ];
 export function AboutSection() {
