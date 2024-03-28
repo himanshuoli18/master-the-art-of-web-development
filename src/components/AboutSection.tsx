@@ -8,7 +8,7 @@ const people = [
     id: 1,
     name: "Himanshu Oli",
     designation: "Software Engineer",
-    image: "https://media.licdn.com/dms/image/D5603AQHc4imIRGpjJg/profile-displayphoto-shrink_400_400/0/1709582836475?e=1717027200&v=beta&t=e6WDwOX6UBgGLpY2zwQ0CyMUcNw5xjcDvpxjZYMigh0"  
+    image: "/profile/profilephoto.jpeg"  
   },
 ];
 export function AboutSection() {

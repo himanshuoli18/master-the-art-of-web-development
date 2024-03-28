@@ -5,7 +5,7 @@ export function TestimonialCards() {
   return (
     <div className="h-[50rem] w-full dark:bg-black dark:bg-grid-white/[0.2] relative flex flex-col items-center justify-center overflow-hidden">
         <div className="absolute pointer-events-none inset-0 flex items-center justify-center dark:bg-black bg-white [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)]"></div>
-        <p className="text-5xl font-bold text-center pb-7 mb-8 z-10 text-whiteˇ¸">Main Areas of Full Stack Web Development</p>
+        <p className="text-5xl font-bold text-center pb-7 mb-8 z-10 text-white">Main Areas of Full Stack Web Development</p>
         <div className="flex justify-center w-full overflow-hidden px-4 sm:px-6 lg:px-8">
             <div className="w-full max-w-6xl">
             <InfiniteMovingCards
